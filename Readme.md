@@ -4,3 +4,5 @@ change for another branch
 change four
 
 change after stash
+2:
+change after stash 
